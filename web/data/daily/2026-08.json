@@ -2878,5 +2878,131 @@
   "tags": "综合",
   "fields_json": "{\"category\": \"时政\", \"explain\": \"处暑是二十四节气之一，通常在每年8月22日至24日之间\\n2026年处暑日为8月23日，太阳到达黄经150°\\n处暑表示暑气渐止，昼夜温差加大，秋意渐浓\\n农谚“处暑禾田连夜变”，是秋收备耕的重要时节\", \"mnemonic\": \"处暑≠出暑，仍有秋老虎\", \"importance\": 2, \"time_window\": \"\"}",
   "reverse_hint": "处暑是二十四节气之一，通常在每年8月22日至24日之间\n2026年处暑日为8月23日，太阳到达黄经1"
+ },
+ {
+  "front": "习近平同约旦国王会谈并举行欢迎仪式",
+  "back": "习近平举行仪式欢迎约旦国王阿卜杜拉二世访华\n习近平同约旦国王举行会谈\n李强会见约旦国王，体现中约关系重要性\n\n【挖坑/口诀】中约友好",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "外交",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"习近平举行仪式欢迎约旦国王阿卜杜拉二世访华\\n习近平同约旦国王举行会谈\\n李强会见约旦国王，体现中约关系重要性\", \"mnemonic\": \"中约友好\", \"importance\": 4, \"time_window\": \"近两周\"}",
+  "reverse_hint": "习近平举行仪式欢迎约旦国王阿卜杜拉二世访华\n习近平同约旦国王举行会谈\n李强会见约旦国王，体现中约关系"
+ },
+ {
+  "front": "习近平对树立和践行正确政绩观学习教育作出重要指示",
+  "back": "习近平作出重要指示，强调巩固拓展树立和践行正确政绩观学习教育成果\n努力创造经得起实践、人民、历史检验的实绩\n蔡奇主持中央党的建设工作领导小组会议并讲话，李希出席并讲话\n\n【挖坑/口诀】政绩观学习教育",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "党建",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"习近平作出重要指示，强调巩固拓展树立和践行正确政绩观学习教育成果\\n努力创造经得起实践、人民、历史检验的实绩\\n蔡奇主持中央党的建设工作领导小组会议并讲话，李希出席并讲话\", \"mnemonic\": \"政绩观学习教育\", \"importance\": 5, \"time_window\": \"当前重点\"}",
+  "reverse_hint": "习近平作出重要指示，强调巩固拓展树立和践行正确政绩观学习教育成果\n努力创造经得起实践、人民、历史检验"
+ },
+ {
+  "front": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
+  "back": "习近平致电阿拉姆吉尔\n祝贺阿拉姆吉尔就任孟加拉国总统\n\n【挖坑/口诀】孟加拉国总统：阿拉姆吉尔",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "外交",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"习近平致电阿拉姆吉尔\\n祝贺阿拉姆吉尔就任孟加拉国总统\", \"mnemonic\": \"孟加拉国总统：阿拉姆吉尔\", \"importance\": 3, \"time_window\": \"近一周\"}",
+  "reverse_hint": "习近平致电阿拉姆吉尔\n祝贺阿拉姆吉尔就任孟加拉国总统"
+ },
+ {
+  "front": "王沪宁主持召开全国政协主席会议",
+  "back": "王沪宁主持召开全国政协主席会议\n全国政协主席会议是政协例行的最高层次会议之一",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "会议",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"王沪宁主持召开全国政协主席会议\\n全国政协主席会议是政协例行的最高层次会议之一\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"近一周\"}",
+  "reverse_hint": "王沪宁主持召开全国政协主席会议\n全国政协主席会议是政协例行的最高层次会议之一"
+ },
+ {
+  "front": "王沪宁会见第三届中美1.5轨对话美方代表",
+  "back": "王沪宁会见第三届中美1.5轨对话美方代表\n1.5轨对话是官方与半官方结合的交流渠道\n\n【挖坑/口诀】1.5轨=官方+民间",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "外交",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"王沪宁会见第三届中美1.5轨对话美方代表\\n1.5轨对话是官方与半官方结合的交流渠道\", \"mnemonic\": \"1.5轨=官方+民间\", \"importance\": 3, \"time_window\": \"近一周\"}",
+  "reverse_hint": "王沪宁会见第三届中美1.5轨对话美方代表\n1.5轨对话是官方与半官方结合的交流渠道"
+ },
+ {
+  "front": "韩正会见科威特外交大臣",
+  "back": "韩正会见科威特外交大臣\n推动中科双边关系发展",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "外交",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"韩正会见科威特外交大臣\\n推动中科双边关系发展\", \"mnemonic\": \"\", \"importance\": 2, \"time_window\": \"近一周\"}",
+  "reverse_hint": "韩正会见科威特外交大臣\n推动中科双边关系发展"
+ },
+ {
+  "front": "我国加速形成全链条科技服务体系",
+  "back": "我国加速形成全链条科技服务体系\n围绕科技创新全流程提供服务，促进成果转化和产业化\n\n【挖坑/口诀】全链条科技服务",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "科技",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"我国加速形成全链条科技服务体系\\n围绕科技创新全流程提供服务，促进成果转化和产业化\", \"mnemonic\": \"全链条科技服务\", \"importance\": 3, \"time_window\": \"近半年\"}",
+  "reverse_hint": "我国加速形成全链条科技服务体系\n围绕科技创新全流程提供服务，促进成果转化和产业化"
+ },
+ {
+  "front": "台风影响东南沿海 多地积极应对强降雨",
+  "back": "台风影响我国东南沿海地区\n多地积极应对强降雨，做好防汛防灾工作\n\n【挖坑/口诀】台风→强降雨→防汛",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "民生",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"台风影响我国东南沿海地区\\n多地积极应对强降雨，做好防汛防灾工作\", \"mnemonic\": \"台风→强降雨→防汛\", \"importance\": 3, \"time_window\": \"近两周\"}",
+  "reverse_hint": "台风影响我国东南沿海地区\n多地积极应对强降雨，做好防汛防灾工作"
+ },
+ {
+  "front": "国新办举行“新征程上的奋斗者”中外记者见面会",
+  "back": "国务院新闻办举行中外记者见面会\n主题为“新征程上的奋斗者”",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "综合",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"国务院新闻办举行中外记者见面会\\n主题为“新征程上的奋斗者”\", \"mnemonic\": \"\", \"importance\": 1, \"time_window\": \"\"}",
+  "reverse_hint": "国务院新闻办举行中外记者见面会\n主题为“新征程上的奋斗者”"
+ },
+ {
+  "front": "陈武同志逝世",
+  "back": "陈武同志逝世",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "综合",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"陈武同志逝世\", \"mnemonic\": \"\", \"importance\": 2, \"time_window\": \"近一周\"}",
+  "reverse_hint": "陈武同志逝世"
+ },
+ {
+  "front": "“十五五”期间我国将开展医保助力基层卫生专项行动",
+  "back": "时间：十五五期间\n行动：医保助力基层卫生专项行动\n旨在发挥医保对基层卫生的支撑作用\n\n【挖坑/口诀】医保助力基层卫生",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "民生",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"时间：十五五期间\\n行动：医保助力基层卫生专项行动\\n旨在发挥医保对基层卫生的支撑作用\", \"mnemonic\": \"医保助力基层卫生\", \"importance\": 4, \"time_window\": \"近一年\"}",
+  "reverse_hint": "时间：十五五期间\n行动：医保助力基层卫生专项行动\n旨在发挥医保对基层卫生的支撑作用"
+ },
+ {
+  "front": "中央网信办处置团播违规直播间7200余个",
+  "back": "中央网信办开展专项整治行动\n处置团播违规直播间7200余个\n持续加强网络直播内容监管\n\n【挖坑/口诀】7200余个",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "法治",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"中央网信办开展专项整治行动\\n处置团播违规直播间7200余个\\n持续加强网络直播内容监管\", \"mnemonic\": \"7200余个\", \"importance\": 3, \"time_window\": \"近一周\"}",
+  "reverse_hint": "中央网信办开展专项整治行动\n处置团播违规直播间7200余个\n持续加强网络直播内容监管"
+ },
+ {
+  "front": "伊朗发布霍尔木兹海峡通行新规",
+  "back": "伊朗发布霍尔木兹海峡通行新规\n与《麦加共同防务协议》成员国进行相关讨论\n霍尔木兹海峡是全球重要的石油运输通道\n\n【挖坑/口诀】霍尔木兹=石油咽喉",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "外交",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"伊朗发布霍尔木兹海峡通行新规\\n与《麦加共同防务协议》成员国进行相关讨论\\n霍尔木兹海峡是全球重要的石油运输通道\", \"mnemonic\": \"霍尔木兹=石油咽喉\", \"importance\": 3, \"time_window\": \"近一月\"}",
+  "reverse_hint": "伊朗发布霍尔木兹海峡通行新规\n与《麦加共同防务协议》成员国进行相关讨论\n霍尔木兹海峡是全球重要的石油"
+ },
+ {
+  "front": "欧盟敦促以色列停止扩建定居点计划",
+  "back": "欧盟敦促以色列停止扩建定居点计划\n定居点问题涉及中东和平进程",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "外交",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"欧盟敦促以色列停止扩建定居点计划\\n定居点问题涉及中东和平进程\", \"mnemonic\": \"\", \"importance\": 2, \"time_window\": \"近一月\"}",
+  "reverse_hint": "欧盟敦促以色列停止扩建定居点计划\n定居点问题涉及中东和平进程"
  }
 ]
