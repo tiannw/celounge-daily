@@ -3715,5 +3715,131 @@
   "tags": "民生",
   "fields_json": "{\"category\": \"时政\", \"explain\": \"我国居民主要健康指标持续向好\\n反映健康中国建设成效显著\\n居民健康保障水平不断提升\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"近半年重点关注\"}",
   "reverse_hint": "我国居民主要健康指标持续向好\n反映健康中国建设成效显著\n居民健康保障水平不断提升"
+ },
+ {
+  "front": "习近平出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+  "back": "2026年8月30日，习近平离京出席2026年上海合作组织峰会。\n习近平对吉尔吉斯斯坦、埃及进行国事访问。\n习近平抵达比什凯克，出席峰会并对吉尔吉斯斯坦进行国事访问。\n吉尔吉斯斯坦各界人士欢迎此访，推动中吉新时代全面战略伙伴关系迈上新台阶。\n\n【挖坑/口诀】访问顺序：吉尔吉斯斯坦→埃及；峰会+国事访问",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "外交",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"2026年8月30日，习近平离京出席2026年上海合作组织峰会。\\n习近平对吉尔吉斯斯坦、埃及进行国事访问。\\n习近平抵达比什凯克，出席峰会并对吉尔吉斯斯坦进行国事访问。\\n吉尔吉斯斯坦各界人士欢迎此访，推动中吉新时代全面战略伙伴关系迈上新台阶。\", \"mnemonic\": \"访问顺序：吉尔吉斯斯坦→埃及；峰会+国事访问\", \"importance\": 5, \"time_window\": \"近一周重点关注\"}",
+  "reverse_hint": "2026年8月30日，习近平离京出席2026年上海合作组织峰会。\n习近平对吉尔吉斯斯坦、埃及进行国事"
+ },
+ {
+  "front": "《平“语”近人——习近平喜欢的典故》（多语种版）在上合组织国家主流媒体播出",
+  "back": "《平“语”近人——习近平喜欢的典故》多语种版在上海合作组织国家主流媒体播出。\n节目展现习近平总书记用典，传播中华优秀传统文化。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "综合",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"《平“语”近人——习近平喜欢的典故》多语种版在上海合作组织国家主流媒体播出。\\n节目展现习近平总书记用典，传播中华优秀传统文化。\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "《平“语”近人——习近平喜欢的典故》多语种版在上海合作组织国家主流媒体播出。\n节目展现习近平总书记用"
+ },
+ {
+  "front": "内蒙古加快绿色产业发展",
+  "back": "内蒙古加快绿色产业发展。\n属于“凝心聚力真抓实干 奋力实现‘十五五’良好开局”系列报道。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "生态",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"内蒙古加快绿色产业发展。\\n属于“凝心聚力真抓实干 奋力实现‘十五五’良好开局”系列报道。\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "内蒙古加快绿色产业发展。\n属于“凝心聚力真抓实干 奋力实现‘十五五’良好开局”系列报道。"
+ },
+ {
+  "front": "我国推出新举措加快数据产业发展",
+  "back": "我国推出新举措加快数据产业发展。\n数据产业是数字经济发展的重点方向。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "科技",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"我国推出新举措加快数据产业发展。\\n数据产业是数字经济发展的重点方向。\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "我国推出新举措加快数据产业发展。\n数据产业是数字经济发展的重点方向。"
+ },
+ {
+  "front": "上半年全国新设外商投资企业3.5万户",
+  "back": "上半年全国新设外商投资企业3.5万户。\n\n【挖坑/口诀】注意是‘新设’企业户数",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "经济",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"上半年全国新设外商投资企业3.5万户。\", \"mnemonic\": \"注意是‘新设’企业户数\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "上半年全国新设外商投资企业3.5万户。"
+ },
+ {
+  "front": "西藏吉隆县泥石流灾害抢险救援有序推进",
+  "back": "西藏吉隆县发生泥石流灾害。\n抢险救援工作有力有序推进。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "民生",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"西藏吉隆县发生泥石流灾害。\\n抢险救援工作有力有序推进。\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "西藏吉隆县发生泥石流灾害。\n抢险救援工作有力有序推进。"
+ },
+ {
+  "front": "科技助力田管推动粮食稳产增收",
+  "back": "科技助力田管，推动粮食稳产增收。\n强化“虫口夺粮”背后的科技力量。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "科技",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"科技助力田管，推动粮食稳产增收。\\n强化“虫口夺粮”背后的科技力量。\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "科技助力田管，推动粮食稳产增收。\n强化“虫口夺粮”背后的科技力量。"
+ },
+ {
+  "front": "技能培训提升就业能力",
+  "back": "通过技能培训提升就业能力。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "民生",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"通过技能培训提升就业能力。\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "通过技能培训提升就业能力。"
+ },
+ {
+  "front": "我国健全多层次医保体系满足多样化保障需求",
+  "back": "健全多层次医保体系。\n满足多样化保障需求。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "民生",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"健全多层次医保体系。\\n满足多样化保障需求。\", \"mnemonic\": \"\", \"importance\": 4, \"time_window\": \"\"}",
+  "reverse_hint": "健全多层次医保体系。\n满足多样化保障需求。"
+ },
+ {
+  "front": "到2030年我国将基本建成现代农产品产地市场体系",
+  "back": "到2030年基本建成现代农产品产地市场体系。\n\n【挖坑/口诀】记住时间节点2030",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "经济",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"到2030年基本建成现代农产品产地市场体系。\", \"mnemonic\": \"记住时间节点2030\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "到2030年基本建成现代农产品产地市场体系。"
+ },
+ {
+  "front": "我国首版全国几何基准影像发布",
+  "back": "发布我国首版全国几何基准影像。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "科技",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"发布我国首版全国几何基准影像。\", \"mnemonic\": \"\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "发布我国首版全国几何基准影像。"
+ },
+ {
+  "front": "新疆750千伏超高压输电线路总长度突破15000公里",
+  "back": "新疆750千伏超高压输电线路总长度突破15000公里。\n\n【挖坑/口诀】千米单位：15000公里",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "综合",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"新疆750千伏超高压输电线路总长度突破15000公里。\", \"mnemonic\": \"千米单位：15000公里\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "新疆750千伏超高压输电线路总长度突破15000公里。"
+ },
+ {
+  "front": "广州中欧班列十年累计进出口货值超1100亿元",
+  "back": "广州中欧班列运行十年。\n累计进出口货值超1100亿元。\n\n【挖坑/口诀】十年+1100亿元",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "经济",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"广州中欧班列运行十年。\\n累计进出口货值超1100亿元。\", \"mnemonic\": \"十年+1100亿元\", \"importance\": 3, \"time_window\": \"\"}",
+  "reverse_hint": "广州中欧班列运行十年。\n累计进出口货值超1100亿元。"
+ },
+ {
+  "front": "中塞合作建设的人形机器人工厂启动量产",
+  "back": "中国与塞尔维亚合作建设的人形机器人工厂启动量产。",
+  "card_type": "common_knowledge",
+  "deck_id": "deck_current_2026-08",
+  "tags": "科技",
+  "fields_json": "{\"category\": \"时政\", \"explain\": \"中国与塞尔维亚合作建设的人形机器人工厂启动量产。\", \"mnemonic\": \"\", \"importance\": 2, \"time_window\": \"\"}",
+  "reverse_hint": "中国与塞尔维亚合作建设的人形机器人工厂启动量产。"
  }
 ]
